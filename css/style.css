@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.header-section{
+    height: 500px;
+    background: url(/personal-website/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.header-top-half{
+    width: 40%;
+    height: 445px;
+    float: left;
+    padding: 2%;
+    margin-left: 10%;
+  
+}
+.orange-syle{
+    color: orange;
+}
+.header-butto{
+    text-decoration: none;
+    padding: 5px;
+    background: linear-gradient(black,orange);
+    color: white;
+    border-radius: 10px;
+}
+.header-photo-style img{
+    width:35%;
+}
+.biography-section{
+    height: 500px;
+   
+}
+.biography-half2{
+    width: 40%;
+    float: right;
+    padding: 2%;
+    margin-right: 6%;
+}
+.biography-photo-style img{
+    width: 30%;
+    margin-left: 15%;
+   
+}
+.work-background{
+    background: url(/personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.text-head{
+    background: black;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
+.work-pic{
+   height: 300px;
+}
+.pic-1{
+    width: 27%;
+    margin-left: 5%;
+    float: left;
+}
+.footer-text{
+    text-align: center;
+}
+.midel-text{
+    text-align: center;
+}
+.text-p{
+   margin: 0px auto;
+    width: 500px;
+}
+.orange{
+    text-align: center;
+}
+.adderess .x{
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    border-image: linear-gradient(180deg,blue,cyan);
+}
